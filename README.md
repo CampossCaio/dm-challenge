@@ -6,9 +6,7 @@
 
 <h1 align="center">
 
- ![align="center"](https://img.shields.io/github/issues/CampossCaio/GoMarketplace?color="ff9000")
- ![Badge](https://img.shields.io/github/forks/CampossCaio/GoMarketplace?color="ff9000")
- ![Badge](https://img.shields.io/github/stars/CampossCaio/GoMarketplace?color="ff9000") 
+ ![GitHub top language](https://img.shields.io/github/languages/top/CampossCaio/dm-challenge)
  
 </h1>
 
