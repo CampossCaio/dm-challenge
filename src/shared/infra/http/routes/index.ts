@@ -10,7 +10,7 @@ const introduction = {
     'O desafio consistia em criar uma api de receitas utilizando alguns recursos públicos.',
   Route:
     'Você pode testar a aplicação acessando a rota /recipes e passando alguns ingredientes conforme o exemplo abaixo.',
-  Example: "/recipes/?i=onion,tomato'",
+  Example: '/recipes/?i=onion,tomato',
   Author: 'Caio Campos',
 };
 
