@@ -53,7 +53,7 @@ export default class CreateRecipeService {
       );
 
       return {
-        keywords: ingredients.split(','),
+        keywords: convertStringToArray(ingredients),
         recipes,
       };
     } catch (err) {
