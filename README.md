@@ -61,6 +61,9 @@ $ docker-compose up
 
 # O servidor inciará na porta:3000 - acesse http://localhost:3000 
 
+# Comando para executar os testes unitários
+$ npm run test
+
 ```
 
 ---
@@ -77,6 +80,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[dotENV](https://github.com/motdotla/dotenv)**
 -   **[Docker](https://www.docker.com/)**
 -   **[Docker Composer](https://docs.docker.com/compose/)**
+-   **[ts-jest](https://kulshekhar.github.io/ts-jest/)**
+
 
 ## 🦸 Autor
 
